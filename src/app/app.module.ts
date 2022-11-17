@@ -16,6 +16,7 @@ import { RegisterComponent } from './components/register/register.component';
 import { SpinnerComponent } from './shared/spinner/spinner.component';
 import { ɵAngularFireSchedulers } from '@angular/fire';
 import { environment } from 'src/environments/environment';
+import { DashboardpruebaComponent } from './components/dashboardprueba/dashboardprueba.component';
 
 
 @NgModule({
@@ -24,7 +25,8 @@ import { environment } from 'src/environments/environment';
     LoginComponent,
     DashboardComponent,
     RegisterComponent,
-    SpinnerComponent
+    SpinnerComponent,
+    DashboardpruebaComponent
   ],
   imports: [
     BrowserModule,
