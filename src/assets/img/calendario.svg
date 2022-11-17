@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.603" height="23.604" viewBox="0 0 23.603 23.604">
+  <g id="calendario" transform="translate(0 0)">
+    <path id="Trazado_899" data-name="Trazado 899" d="M18.686,1.967H17.7V.983a.983.983,0,1,0-1.967,0v.983H7.868V.983A.983.983,0,1,0,5.9.983v.983H4.917A4.923,4.923,0,0,0,0,6.884v11.8A4.923,4.923,0,0,0,4.917,23.6H18.686A4.923,4.923,0,0,0,23.6,18.686V6.884A4.923,4.923,0,0,0,18.686,1.967ZM1.967,6.884a2.95,2.95,0,0,1,2.95-2.95H18.686a2.95,2.95,0,0,1,2.95,2.95v.983H1.967ZM18.686,21.637H4.917a2.95,2.95,0,0,1-2.95-2.95V9.835h19.67v8.851A2.95,2.95,0,0,1,18.686,21.637Z" transform="translate(0 0)" fill="#025fee"/>
+    <ellipse id="Elipse_380" data-name="Elipse 380" cx="1.475" cy="1.475" rx="1.475" ry="1.475" transform="translate(10.326 13.277)" fill="#025fee"/>
+    <ellipse id="Elipse_381" data-name="Elipse 381" cx="1.475" cy="1.475" rx="1.475" ry="1.475" transform="translate(5.409 13.277)" fill="#025fee"/>
+    <ellipse id="Elipse_382" data-name="Elipse 382" cx="1.475" cy="1.475" rx="1.475" ry="1.475" transform="translate(15.244 13.277)" fill="#025fee"/>
+  </g>
+</svg>

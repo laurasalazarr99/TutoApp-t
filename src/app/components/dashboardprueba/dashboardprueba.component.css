@@ -1,11 +1,54 @@
-.menu
-{
+.menu {
     flex-direction: column;
 }
 
-.row > div{
-    background: #f2f2f2;
+.row > div {
+    background: #E4E6F0;
     padding: 30px;
     border: 1px solid grey;
-  }
+}
+
+.pag {
+    flex-wrap: nowrap;
+}
+
+.row > div {
+    flex-wrap: nowrap;
+}
+
+.buscar {
+
+    margin-left: auto;
+    margin-top: 15px;
+}
   
+  
+.buscar input {
+    width: 1035px;
+    height: 40px;
+    padding: 0 20px;
+    font-size: 18px;
+    color: #000;
+    outline: none;
+    border: 1px solid silver;
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.imagen-slide {
+    width: 100%;
+    width: 100%;
+    padding: 0px;
+}
+
+
+.imagen1 {
+
+    width: 80%;
+    height: 80%;
+}
+
+.logo1 {
+    justify-content: center;
+}
