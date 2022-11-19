@@ -1,14 +1,13 @@
-.menu {
+
+.menu-dashb {
     flex-direction: column;
+    background-color: aqua;
+    margin: 24px 12px 24px 24px;
 }
 
-.row > div {
-    background: #E4E6F0;
-    padding: 30px;
-    border: 1px solid grey;
-}
 
-.pag {
+
+.pag-dashb {
     flex-wrap: nowrap;
 }
 
@@ -39,16 +38,37 @@
 .imagen-slide {
     width: 100%;
     width: 100%;
+}
+
+
+.container-logo-dashb {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 0px;
+    margin-bottom: 10px;
+}
+
+.container-logo-dashb img {   
+    width:70%;
+    height: 70%;
+}
+
+.nav-menu-dashb {
     padding: 0px;
 }
 
-
-.imagen1 {
-
-    width: 80%;
-    height: 80%;
+.col-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.col {
+    padding-top: 10px;
+    padding-bottom: 10px;    
 }
 
-.logo1 {
-    justify-content: center;
+.iconos {
+    width:55%;
+    height: 55%;
 }
