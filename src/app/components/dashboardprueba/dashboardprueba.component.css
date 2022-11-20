@@ -1,18 +1,18 @@
+.pag-dashb {
+    flex-wrap: nowrap;
+    background-color:#E4E6F0 ;
+    
+}
 
 .menu-dashb {
     flex-direction: column;
-    background-color: aqua;
+    background-color: #F6FAFF;
     margin: 24px 12px 24px 24px;
+    border-radius: 12px;
 }
 
-
-
-.pag-dashb {
-    flex-wrap: nowrap;
-}
-
-.row > div {
-    flex-wrap: nowrap;
+.conjunto-items {
+    padding: 20px;
 }
 
 .buscar {
@@ -38,6 +38,7 @@
 .imagen-slide {
     width: 100%;
     width: 100%;
+    padding: 0px;
 }
 
 
@@ -46,7 +47,7 @@
     justify-content: center;
     align-items: center;
     padding: 0px 0px;
-    margin-bottom: 10px;
+    margin: 20px 0px 20px;
 }
 
 .container-logo-dashb img {   
@@ -54,21 +55,61 @@
     height: 70%;
 }
 
-.nav-menu-dashb {
+.nav-dashb {
     padding: 0px;
 }
 
-.col-4 {
+.col-3 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0% 5px 0px;
+}
+
+
+.iconos {
+    width:auto;
+    height: auto;
+}
+
+.items-dashb {
+    align-items: center;
+    justify-content: flex-start;
+    display: flex;
+    padding: 0%;
+}
+
+.items-fuente {
+    font-family: 'Poppins', sans-serif;
+    color: #5A607F;
+    margin:0px;
+    font-size: 16px;
+}
+
+.columnas {
+    flex-direction: column;
+}
+
+.caja-dashb{
+    background-color: #025FEE;
+    border-radius: 6px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 56px;
+    height: 56px;
+}
+
+.fechatuto{
+    padding: 0px;
     display: flex;
     justify-content: center;
     align-items: center;
-}
-.col {
-    padding-top: 10px;
-    padding-bottom: 10px;    
+    padding: 0% 5px 0px;
+
 }
 
-.iconos {
-    width:55%;
-    height: 55%;
+.materia-dashb {
+    padding: 15px 20px 15px 20px;
+    background: rgba(228, 230, 240, 0.5)
 }
